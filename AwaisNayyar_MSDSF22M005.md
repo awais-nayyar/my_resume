@@ -1,17 +1,12 @@
-# SOHA SARWAR
+# Awais Nayyar
 
-+92 3086590943 \| sohasarwar2000@gmail.com \| Lahore, Pakistan
++92 3055599143 \| awaisnayyar01@gmail.com \| Lahore, Pakistan
 
 ------------------------------------------------------------------------
 
-## POWER BI DEVELOPER
+## Data Analyst
 
-An excellent team player who is flexible and has a positive attitude
-towards achieving the goals to the best of my abilities. Knowledgeable
-Business Intelligence Developer skilled in data collection, data analysis
-and generating insight from data. A solutions driven analyst focused to
-achieve improved business and operational processes with the use of
-analytical abilities and a technical background.
+A highly motivated Data Science professional with a robust background in Machine Learning and Data Analysis
 
 ------------------------------------------------------------------------
 
@@ -21,62 +16,38 @@ analytical abilities and a technical background.
 
 -   2022 - Continue
 
-### BS Information Technology \| University of Education, Lahore
+### BS Information Technology \| Bahauddin Zakariya University, Multan
 
 -   Oct 2018 - August 2022
 
 ------------------------------------------------------------------------
 
-## WORK EXPERIENCE
+## Personal Projects
 
-### Power BI Developer \| ZNB Consulting Services
+### EDA & Loan Eligibility Prediction
 
-September 2022 - July 2023\
-- Develop and maintain Power BI reports, dashboards, and visualizations
-for business insights and data-driven decisions.\
-- Develop data models and ETL processes to ensure data accuracy,
-consistency, and integrity.\
-- Optimize Power BI reports and dashboards for performance and
-scalability.\
-- Troubleshoot issues with Power BI reports and dashboards, and
-implement solutions.\
-- Stay up-to-date with the latest Power BI features and recommend new
-solutions to improve the BI environment.\
-- Collaborate with cross-functional teams, including data engineers,
-analysts, and business stakeholders.
+- The individual employs a logistic regression model to forecast loan eligibility by analyzing various dataset features.\
+- In the EDA phase, the person explores relationships among features, including gender, marital status, dependents, education level, self-employment, credit history, and property area, to understand their impact on loan approval status.\
+- The model is designed to learn a decision boundary that effectively distinguishes between loan approval ('Y') and non-approval ('N') based on the provided features.\
 
-### PwC Switzerland Power BI Data Analytics \| Forage
+### Amazon Sales Analysis (Power BI Dashboard)
 
-January 30, 2023\
-- Completed PwC's Virtual Internship: Transformed data into Insights and
-Actions with Dynamic BI Dashboards.\
-- Created visualizations for various business scenarios.\
-- Call Centre Trends: Visualized customer and agent behavior to identify
-trends.\
-- Customer Retention: Analyzed customer demographics and insights to
-improve retention rates.\
-- Diversity & Inclusion: Evaluated gender balance in the executive suite
-and provided recommendations to improve diversity and inclusion efforts.
+- The dashboard facilitates data-driven decision-making by presenting insights into revenue spikes, customer preferences, and product trends.\
+- Showing total revenue, sales trends, and sales distribution across different product categories.\
+- Here also showing sales by category, the dataset contains three categories Office supplies, Technology and Furniture.\
 
-### JPMorgan Chase & Co. Excel Skills \| Forage
+### Covid-19 Vaccine Tweets Analysis
 
-March 23, 2023\
-- Completed a comprehensive, self-paced virtual program with 5 modules
-focused on Excel skills development, including: Excel Keyboard Shortcuts,
-Conditional Formatting, Visual Basic for Applications (VBA) Macros, Data
-Visualization in Excel, Data-Driven Storytelling.\
-- Developed proficiency in Excel and its key functionalities, including
-data analysis, visualization, and communication.\
-- Acquired skills to streamline workflows, improve data accuracy, and
-enhance data-driven decision-making.
+- The core aim of this analysis is to understand people's sentiments and behaviors related to Covid-19 vaccines.\
+- This comprises sentiment trends, aspect-based sentiment analysis, popular hashtags, and emotional analysis within the tweets.\
 
 ------------------------------------------------------------------------
 
 ## SKILLS
 
-Python \| NumPy \| Pandas \| Matplotlib \| Scipy \| SQL \| Dax \| Data
-Analysis \| Data Visualization and Storytelling \| Statistical Analysis
-\| EDA \| Microsoft Power BI \| QuickSights \| Excel
+Python \| NumPy \| Pandas \| Matplotlib \| Scipy \| SQL \| Data
+Analysis \| Data Visualization and Storytelling \| Java \|Statistical Analysis
+\| EDA \| Microsoft Power BI \| Excel
 
 ------------------------------------------------------------------------
 
@@ -86,38 +57,9 @@ Analysis \| Data Visualization and Storytelling \| Statistical Analysis
 -   Introducing Dax \| SQL BI
 -   SQL \| HackerRank
 -   Python (Basic) \| HackerRank
--   SEO \| DigiSkills
--   E-Commerce Management \| DigiSkills
 
 ------------------------------------------------------------------------
 
-## PROJECTS
-
-### A Statistical Analysis of Unemployment in Medical Field
-
--   Manually collected and cleaned data using various techniques to
-    ensure data accuracy and completeness.
--   Applied inferential and descriptive statistics techniques to analyze
-    the data and draw insights.
--   Formulated hypotheses and conducted hypothesis tests to validate the
-    hypotheses and draw statistically significant conclusions.
--   Presented the findings and recommendations based on the analysis
-    using various visualizations, such as charts and graphs.
-
-### Happy Hired! A Flutter Web Application to Streamline the Hiring Process
-
--   Developed Happy Hired!, a robust Flutter web application using
-    Flutter framework, VisualStudio Code (VSCode), and Firebase.
--   Simplified the hiring process by efficiently identifying and
-    acquiring top talent for organizations.
--   Empowered job seekers with the ability to focus on and enhance their
-    relevant skills, bridging the gap between their current skills and
-    market demands.
--   Leveraged Firebase for seamless data management, authentication, and
-    real-time communication, ensuring a smooth and responsive user
-    experience throughout the hiring journey.
-
-------------------------------------------------------------------------
 
 ## Languages
 
